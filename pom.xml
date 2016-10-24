@@ -128,8 +128,10 @@
       <artifactId>jsoup</artifactId>
       <version>1.7.2</version>
     </dependency>
-
-
+    <dependency>
+      <groupId>org.codehaus.groovy</groupId>
+      <artifactId>groovy</artifactId>
+    </dependency>
   </dependencies>
   <build>
     <finalName>springdata</finalName>
